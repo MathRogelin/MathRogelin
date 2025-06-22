@@ -1,35 +1,31 @@
-<h3 align="left">Hi! I'm Matheus, welcome to my profile</h3>
+<h1>Olá, eu sou o Matheus 👋</h1>
 
-###
+  <section class="section" id="sobre-mim">
+    <h2>Sobre mim</h2>
+    <ul>
+      <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
+      <li>💻 Apaixonado por programação, desenvolvimento web e jogos</li>
+      <li>🚀 Atualmente explorando Roblox Studio, JavaScript e Three.js</li>
+      <li>📚 Sempre buscando aprender algo novo e compartilhar conhecimento</li>
+      <li>📫 Me encontre aqui: 
+        <a href="https://www.linkedin.com/in/matheusrogelin/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+        <a href="https://matheusrogelin_portfolio.surge.sh" target="_blank" rel="noopener noreferrer">Portfolio</a>
+      </li>
+    </ul>
+  </section>
 
-<p align="left">I'm a programming student, more focused on the front-end.</p>
+  <section class="section" id="tecnologias">
+    <h2>Tecnologias que uso</h2>
+    <ul>
+      <li>JavaScript | HTML | CSS</li>
+      <li>Roblox Studio (Lua)</li>
+      <li>Three.js</li>
+      <li>Node.js</li>
+      <li>Git &amp; GitHub</li>
+    </ul>
+  </section>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathRogelin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathRogelin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-</div>
-
-###
-</div>
-
-###
+  <section class="section" id="contato">
+    <h2>Contato</h2>
+    <p>Quer trocar uma ideia? Me envie uma mensagem!</p>
+  </section>
