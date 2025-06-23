@@ -18,7 +18,6 @@
     <h2>Tecnologias que uso</h2>
     <ul>
       <li>JavaScript | HTML | CSS</li>
-      <li>Roblox Studio (Lua)</li>
       <li>Three.js</li>
       <li>Node.js</li>
       <li>Git &amp; GitHub</li>
