@@ -5,7 +5,7 @@
     <ul>
       <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
       <li>💻 Apaixonado por programação, desenvolvimento web e jogos</li>
-      <li>🚀 Atualmente explorando Roblox Studio, JavaScript e Three.js</li>
+      <li>🚀 Atualmente explorando JavaScript e Three.js</li>
       <li>📚 Sempre buscando aprender algo novo e compartilhar conhecimento</li>
       <li>📫 Me encontre aqui: 
         <a href="https://www.linkedin.com/in/matheusrogelin/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
