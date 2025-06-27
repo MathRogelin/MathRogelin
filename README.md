@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Matheus 👋</h1>
+<h1>Olá, eu sou Matheus 👋</h1>
 
   <section class="section" id="sobre-mim">
     <h2>Sobre mim</h2>
